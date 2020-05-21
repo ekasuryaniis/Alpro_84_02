@@ -1,0 +1,6 @@
+mulai
+masukan (x,y)
+if terbesar < y
+   tebesar <- y
+if else 
+tampilkan(terbesar)
