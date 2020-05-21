@@ -1,0 +1,8 @@
+input [P=5] 
+P <= 5
+if Ya, then inputan tersebut dinamakan data
+if Tidak, then proses akan berhenti
+Temporary < data [Q] : sebelum pengurutan
+if inputan kurang dari ketentuan, then program meminta coding Q : Q-1
+Data [Q+1] = temporary : sudah diurutkan
+  
