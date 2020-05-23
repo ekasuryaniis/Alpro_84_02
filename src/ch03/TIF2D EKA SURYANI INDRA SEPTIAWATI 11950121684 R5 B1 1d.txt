@@ -1,7 +1,0 @@
-1.Deklarasi variable faktor=0
-2.Masukkan bilangan bulat positif BILANGAN
-3.Proses looping A=1 sampai dengan BILANGAN :
-  -jika BILANGAN modulus A sama dengan 0, tambah 1nilai variabek FAKTOR
-  -lanjutkan looping
-4.Jika variabel FAKTOR = 2, cetak "Bilangan Prima". Jika tidak, cetak "Bukan Bilangan Prima".
-5.Selesai  
